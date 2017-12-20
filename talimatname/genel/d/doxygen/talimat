@@ -4,7 +4,7 @@
 # Gerekler: python cmake
 
 isim=doxygen
-surum=1.8.11
+surum=1.8.13
 devir=1
 kaynak=(http://ftp.stack.nl/pub/$isim/$isim-$surum.src.tar.gz)
 
