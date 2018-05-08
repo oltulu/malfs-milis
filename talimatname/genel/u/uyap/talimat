@@ -4,7 +4,7 @@
 # Gerekler: openjdk akiskart opensc innoextract
 
 isim=uyap
-surum=4.1.4
+surum=4.1.10
 devir=1
 kaynak=(http://www.uyap.gov.tr/destek/uyap.zip
         uyap-editor.png
